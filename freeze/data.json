@@ -1,0 +1,18 @@
+{
+    "type_token": "freeze",
+    "type_name": "Freeze",
+    "type_class": "normal",
+    "type_colour_dark": [
+        83,
+        184,
+        184
+    ],
+    "type_colour_light": [
+        51,
+        148,
+        148
+    ],
+    "type_flag_hidden": 0,
+    "type_flag_published": 1,
+    "type_order": 4
+}

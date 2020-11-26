@@ -1,0 +1,18 @@
+{
+    "type_token": "copy",
+    "type_name": "Copy",
+    "type_class": "normal",
+    "type_colour_dark": [
+        147,
+        137,
+        177
+    ],
+    "type_colour_light": [
+        135,
+        124,
+        167
+    ],
+    "type_flag_hidden": 0,
+    "type_flag_published": 1,
+    "type_order": 20
+}

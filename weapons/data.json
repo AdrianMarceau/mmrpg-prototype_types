@@ -1,0 +1,18 @@
+{
+    "type_token": "weapons",
+    "type_name": "Weapons",
+    "type_class": "special",
+    "type_colour_dark": [
+        61,
+        124,
+        190
+    ],
+    "type_colour_light": [
+        43,
+        101,
+        163
+    ],
+    "type_flag_hidden": 1,
+    "type_flag_published": 1,
+    "type_order": 22
+}

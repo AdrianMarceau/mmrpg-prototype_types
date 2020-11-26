@@ -1,0 +1,18 @@
+{
+    "type_token": "missile",
+    "type_name": "Missile",
+    "type_class": "normal",
+    "type_colour_dark": [
+        182,
+        161,
+        76
+    ],
+    "type_colour_light": [
+        150,
+        132,
+        60
+    ],
+    "type_flag_hidden": 0,
+    "type_flag_published": 1,
+    "type_order": 14
+}

@@ -1,0 +1,18 @@
+{
+    "type_token": "electric",
+    "type_name": "Electric",
+    "type_class": "normal",
+    "type_colour_dark": [
+        167,
+        161,
+        42
+    ],
+    "type_colour_light": [
+        136,
+        137,
+        23
+    ],
+    "type_flag_hidden": 0,
+    "type_flag_published": 1,
+    "type_order": 7
+}

@@ -1,0 +1,18 @@
+{
+    "type_token": "flame",
+    "type_name": "Flame",
+    "type_class": "normal",
+    "type_colour_dark": [
+        192,
+        57,
+        38
+    ],
+    "type_colour_light": [
+        172,
+        45,
+        27
+    ],
+    "type_flag_hidden": 0,
+    "type_flag_published": 1,
+    "type_order": 6
+}

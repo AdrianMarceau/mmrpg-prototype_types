@@ -1,0 +1,18 @@
+{
+    "type_token": "swift",
+    "type_name": "Swift",
+    "type_class": "normal",
+    "type_colour_dark": [
+        197,
+        102,
+        73
+    ],
+    "type_colour_light": [
+        187,
+        88,
+        58
+    ],
+    "type_flag_hidden": 0,
+    "type_flag_published": 1,
+    "type_order": 12
+}

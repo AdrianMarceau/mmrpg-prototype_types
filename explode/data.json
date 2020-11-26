@@ -1,0 +1,18 @@
+{
+    "type_token": "explode",
+    "type_name": "Explode",
+    "type_class": "normal",
+    "type_colour_dark": [
+        197,
+        128,
+        24
+    ],
+    "type_colour_light": [
+        172,
+        111,
+        20
+    ],
+    "type_flag_hidden": 0,
+    "type_flag_published": 1,
+    "type_order": 5
+}

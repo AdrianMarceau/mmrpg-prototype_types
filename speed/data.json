@@ -1,0 +1,18 @@
+{
+    "type_token": "speed",
+    "type_name": "Speed",
+    "type_class": "special",
+    "type_colour_dark": [
+        105,
+        87,
+        117
+    ],
+    "type_colour_light": [
+        139,
+        115,
+        155
+    ],
+    "type_flag_hidden": 1,
+    "type_flag_published": 1,
+    "type_order": 25
+}

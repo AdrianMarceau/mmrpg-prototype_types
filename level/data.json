@@ -1,0 +1,18 @@
+{
+    "type_token": "level",
+    "type_name": "Level",
+    "type_class": "special",
+    "type_colour_dark": [
+        167,
+        161,
+        42
+    ],
+    "type_colour_light": [
+        136,
+        137,
+        23
+    ],
+    "type_flag_hidden": 1,
+    "type_flag_published": 1,
+    "type_order": 32
+}

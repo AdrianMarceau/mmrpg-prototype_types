@@ -1,0 +1,18 @@
+{
+    "type_token": "time",
+    "type_name": "Time",
+    "type_class": "normal",
+    "type_colour_dark": [
+        106,
+        77,
+        119
+    ],
+    "type_colour_light": [
+        91,
+        66,
+        102
+    ],
+    "type_flag_hidden": 0,
+    "type_flag_published": 1,
+    "type_order": 8
+}

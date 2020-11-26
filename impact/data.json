@@ -1,0 +1,18 @@
+{
+    "type_token": "impact",
+    "type_name": "Impact",
+    "type_class": "normal",
+    "type_colour_dark": [
+        117,
+        112,
+        64
+    ],
+    "type_colour_light": [
+        97,
+        93,
+        54
+    ],
+    "type_flag_hidden": 0,
+    "type_flag_published": 1,
+    "type_order": 3
+}

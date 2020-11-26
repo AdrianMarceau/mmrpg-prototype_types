@@ -1,0 +1,18 @@
+{
+    "type_token": "light",
+    "type_name": "Light",
+    "type_class": "special",
+    "type_colour_dark": [
+        62,
+        76,
+        105
+    ],
+    "type_colour_light": [
+        80,
+        99,
+        138
+    ],
+    "type_flag_hidden": 1,
+    "type_flag_published": 1,
+    "type_order": 27
+}

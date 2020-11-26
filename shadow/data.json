@@ -1,0 +1,18 @@
+{
+    "type_token": "shadow",
+    "type_name": "Shadow",
+    "type_class": "normal",
+    "type_colour_dark": [
+        63,
+        57,
+        73
+    ],
+    "type_colour_light": [
+        52,
+        46,
+        63
+    ],
+    "type_flag_hidden": 0,
+    "type_flag_published": 1,
+    "type_order": 16
+}

@@ -1,0 +1,18 @@
+{
+    "type_token": "cutter",
+    "type_name": "Cutter",
+    "type_class": "normal",
+    "type_colour_dark": [
+        109,
+        109,
+        109
+    ],
+    "type_colour_light": [
+        118,
+        120,
+        126
+    ],
+    "type_flag_hidden": 0,
+    "type_flag_published": 1,
+    "type_order": 2
+}
